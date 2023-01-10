@@ -1,3 +1,9 @@
+/*
+two command lines
+npm install date-fns --save
+npm install express --save
+
+*/
 const addDays = require("date-fns/addDays");
 const express = require("express");
 const app = express();
